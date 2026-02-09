@@ -4,6 +4,7 @@ A Flask-based OCR API that processes images (such as **Visiting Cards** and **Pa
 The API cleans OCR text and extracts structured information like emails, phone numbers, addresses, passport numbers, dates of birth, and MRZ codes.
 
 It also includes **Swagger UI** for easy testing and documentation.
+After running the main.py app there will a hyperlink . by clickinf on the link it will take away to the webpage . then we need to give http://127.0.0.1:5000/swagger. then the app will be open for the text extraction from id card/visitng card/passport id images
 
 ---
 
